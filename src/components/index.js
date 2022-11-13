@@ -1,6 +1,5 @@
 import Navbar from "./Navbar";
 import Billing from "./Events_home";
-import CardDeal from "./CardDeal";
 import Business from "./Materials";
 import CTA from "./CTA";
 import Stats from "./Stats";
@@ -14,7 +13,6 @@ import Events from "./Events";
 export {
   Navbar,
   Billing,
-  CardDeal,
   Business,
   CTA,
   Stats,
