@@ -2,6 +2,7 @@ import styles from "../style";
 import { logo } from "../assets";
 import { footerLinks, socialMedia } from "../constants";
 import { Link } from "react-router-dom";
+import ButtonMailto from "./ButtonMailTo";
 
 const Footer = () => (
   <section className={`${styles.flexCenter} ${styles.paddingY} flex-col`}>
@@ -36,6 +37,9 @@ const Footer = () => (
                   </li>
                 </Link>
               ))}
+              <li key="gnaru" className={`font-poppins font-normal text-[16px] leading-[24px] text-dimWhite hover:text-secondary cursor-pointer`}> 
+                    <ButtonMailto  label="Contact Us" mailto="mailto:edunation.main@gmail.com" />
+              </li>
             </ul>
           </div>
         ))}
