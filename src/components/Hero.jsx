@@ -28,11 +28,12 @@ const Hero = () => {
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
           Our team of high-schoolers and college students teaches a wide variety
           of subjects including algebra, biology, computer science, and chemistry.
+          Join us today.
         </p>
       </div>
 
       <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 relative`}>
-        <img src={classroom} alt="billing" className="w-[90%] h-[90%] relative z-[5]" />
+        <img src={classroom} alt="thumbsupkids" className="w-[90%] h-[90%] relative z-[5]" />
 
         {/* gradient start */}
         <div className="absolute z-[0] w-[40%] h-[35%] top-0 pink__gradient" />

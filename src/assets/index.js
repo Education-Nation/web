@@ -25,6 +25,8 @@ import people02 from "./people02.png";
 import people03 from "./people03.png";
 import thumbup from "./thumbup.png";
 import classroom from "./classroom.png";
+import suhas from "./suhas.png";
+import vishal from "./vishal.jpg";
 
 export {
   airbnb,
@@ -54,4 +56,6 @@ export {
   people03,
   thumbup,
   classroom,
+  suhas,
+  vishal
 };

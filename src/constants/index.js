@@ -1,4 +1,4 @@
-import { people01, people02, people03, facebook, instagram, linkedin, twitter, shield, star,thumbup  } from "../assets";
+import { people01, people02, people03, facebook, instagram, linkedin, twitter, shield, star,thumbup,suhas,vishal  } from "../assets";
 
 export const navLinks = [
   {
@@ -7,7 +7,7 @@ export const navLinks = [
   },
   {
     id: "/events",
-    title: "Events",
+    title: "Get Involved",
   },
   {
     id: "/team",
@@ -163,14 +163,14 @@ export const leaders = [
   },
   {
     id:"leader-5",
-    img:twitter,
+    img:vishal,
     title:"Vishal Muthusekaran, Co-Founder",
     content:"Hi, I am Vishal.",
   },
   {
     id:"leader-6",
-    img:twitter,
+    img:suhas,
     title:"Suhas Adavelley, Co-Founder",
-    content:"Hi, I am Suhas.",
+    content:"Suhas is a sophomore at Freedom High School and has an aptitude for the subjects in STEM. As an aspiring computer science major and business major, he has experience with the various fields of STEM. He is always ready to learn new things and challenge himself to better assist the world around him. Along with school, Suhas likes to educate himself on the latest Financial news and markets, learn about the latest technology, play tennis, and play the trumpet and piano.",
   },
 ]
