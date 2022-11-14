@@ -28,7 +28,7 @@ const Event_content = () => {
                             </p>
                         </div>
                 </div>
-                <iframe  allowFullscreen="" frameBorder="0" src="https://docs.google.com/document/d/e/2PACX-1vQo2GqeUivgf8vi4I4EJv0yPDLJzGKFpaxl1lx4LrEU9I9YJ2GMYHiFQ_MhS-x7n4a8QGGxxy9myInF/pub?embedded=true"></iframe>
+                <iframe  allowFullscreen="" frameBorder="0" src="https://docs.google.com/document/d/e/2PACX-1vSz96h2pvSXoTRx67vusY0R4fZSk8W4xdfz5YCrEiK4lVXFy4gKNqGDSaruBPQtKIB9r2RnQ9vvs5nH/pub?embedded=true"></iframe>
 
             </section>
         </div>
