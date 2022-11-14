@@ -37,9 +37,9 @@ const Footer = () => (
                 </Link>
               ))}
               <li key="gnaru" className={`font-poppins font-normal text-[16px] leading-[24px] text-dimWhite hover:text-secondary cursor-pointer`}> 
-                <Link to="mailto:edunation.main@gmail.com">
+                <a href="mailto:edunation.main@gmail.com">
                     Contact Us
-                </Link>
+                </a>
               </li>
             </ul>
           </div>
